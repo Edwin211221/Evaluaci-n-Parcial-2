@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|c:\\users\\pc\\onedrive - universidad central del ecuador\\escritorio\\the batman files\\proyectos_poo2\\controlpagosuniversidad\\views\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:views\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|c:\\users\\pc\\onedrive - universidad central del ecuador\\escritorio\\the batman files\\proyectos_poo2\\controlpagosuniversidad\\views\\frmpagos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:views\\frmpagos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\views\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:views\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\views\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:views\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\views\\frmpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:views\\frmpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\views\\frmpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:views\\frmpagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\views\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:views\\frmmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:models\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC20B6E-E223-4C49-82DE-1048AE6DDA90}|ControlPagosUniversidad.csproj|solutionrelative:data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPagos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmPagos.Designer.cs",
+              "RelativeDocumentMoniker": "VIEWS\\frmPagos.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmPagos.Designer.cs",
+              "RelativeToolTip": "VIEWS\\frmPagos.Designer.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAIAwwLUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T21:27:30.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEstudiantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmEstudiantes.cs",
+              "RelativeDocumentMoniker": "VIEWS\\frmEstudiantes.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmEstudiantes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VIEWS\\frmEstudiantes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:52:57.176Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmEstudiantes.cs",
+              "RelativeDocumentMoniker": "VIEWS\\frmEstudiantes.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmEstudiantes.cs",
+              "RelativeToolTip": "VIEWS\\frmEstudiantes.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAowLoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:47:42.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPagos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmPagos.cs",
+              "RelativeDocumentMoniker": "VIEWS\\frmPagos.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmPagos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VIEWS\\frmPagos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:53:08.778Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "VIEWS\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VIEWS\\frmMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:50:26.571Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmPagos.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmPagos.cs",
+              "RelativeDocumentMoniker": "VIEWS\\frmPagos.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmPagos.cs",
+              "RelativeToolTip": "VIEWS\\frmPagos.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwNYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:45:18.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T01:48:31.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\MODELS\\Carrera.cs",
+              "RelativeDocumentMoniker": "MODELS\\Carrera.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\MODELS\\Carrera.cs",
+              "RelativeToolTip": "MODELS\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:50:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "VIEWS\\frmMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\VIEWS\\frmMenuPrincipal.cs",
+              "RelativeToolTip": "VIEWS\\frmMenuPrincipal.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:20:51.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\MODELS\\Pago.cs",
+              "RelativeDocumentMoniker": "MODELS\\Pago.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\MODELS\\Pago.cs",
+              "RelativeToolTip": "MODELS\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:51:10.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\DATA\\Conexion.cs",
+              "RelativeDocumentMoniker": "DATA\\Conexion.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Central del Ecuador\\Escritorio\\THE BATMAN FILES\\PROYECTOS_POO2\\ControlPagosUniversidad\\DATA\\Conexion.cs",
+              "RelativeToolTip": "DATA\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T00:49:23.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
